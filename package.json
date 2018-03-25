@@ -1,0 +1,27 @@
+{
+  "name": "hello-nuxt",
+  "dependencies": {
+    "@nuxtjs/axios": "^4.5.0",
+    "axios": "^0.17.1",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express-session": "^1.15.6",
+    "mysql2": "^1.5.1",
+    "nuxt": "latest",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.83.0",
+    "requests": "^0.2.2",
+    "sequelize": "^4.32.6",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vuetify": "^1.0.1",
+    "web3": "^1.0.0-beta.30",
+    "websocket": "^1.0.25"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  }
+}
